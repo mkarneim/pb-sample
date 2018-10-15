@@ -1,0 +1,12 @@
+**/.apt_generated
+**/.classpath
+**/.factorypath
+**/.gradle
+**/.project
+**/.settings
+**/.svn
+**/bin
+**/bin-*
+**/build
+**/src-gen
+
